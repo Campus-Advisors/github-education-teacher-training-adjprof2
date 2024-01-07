@@ -39,4 +39,28 @@ In this module you will be introduced to Git. This module will cover:
 
 :notebook: Complete Module 1.4 Assignment
 
+-----------------------------------------------------
+List of commands:
+
+   git commit - "first comment"
+   git add README.md
+   git status
+   git diff --staged
+   git branch
+   git show-ref --head
+   git log
+   git branch new-feature
+   git show-ref --head
+   git branch
+   git add README.md
+   git branch master
+   git checkout new-feature
+   git checkout master
+   git checkout master
+   git merge new-feature
+   git show-ref --head
+   git branch -d new-feature
+   git show-ref --head
+
+
 
